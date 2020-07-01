@@ -17,8 +17,9 @@ the locations.
 https://public.tableau.com/profile/gilbert.rybak#!/vizhome/CitBikes/CITIBikeStory
 
 
-Departure Station Usage Volume
+Departure Station Usage Volume<br>
 ![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Capture2_75.JPG  "Station Utilization 2019") 
 
-Ridership by Month
+
+Ridership by Month<br>
 ![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Ridership_Small.jpg "Station Utilization 2019") Station
