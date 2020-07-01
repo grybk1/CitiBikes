@@ -18,11 +18,11 @@ https://public.tableau.com/profile/gilbert.rybak#!/vizhome/CitBikes/CITIBikeStor
 
 
 Departure Station Usage Volume<br>
-![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Capture2_75.JPG  "Departure Station Volumne Map 2019") 
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Capture2.JPG  "Departure Station Volumne Map 2019") 
 
 
 Ridership by Month<br>
-![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Ridership_Small.jpg "Ridership by Month 2019") 
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Ridership_Capture.JPG"Ridership by Month 2019") 
 
 Stations by Volume<br>
-![Alt text](https://github.com/grybk1/CitiBikes/blob/master/StationVolume_small.jpg "Stations by Volume 2019") 
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/StationVolume.JPG"Stations by Volume 2019") 
