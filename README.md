@@ -14,9 +14,9 @@ instead of tourists are the primary user of the service. Aditionally Grove Stati
 
 the locations. 
 
-
-
 https://public.tableau.com/profile/gilbert.rybak#!/vizhome/CitBikes/CITIBikeStory
 
 
-![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Capture1_small.jpg "Usage Graph 2019")
+
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Capture1_small.jpg "Usage Graph 2019") 
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Capture2_small.JPG "Station Utilization 2019") 
