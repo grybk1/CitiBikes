@@ -10,7 +10,7 @@ during the summer months of August and September, with a ramp up in June and a d
 
 vast majority of users of the service were subscription holders. This points to an indication that residence 
 
-instead of tourists are the primary user of the service. Aditionally Grove Station is the highest utilized of all 
+instead of tourists are the primary users of the service. Aditionally Grove Station is the highest utilized of all 
 
 the locations. 
 
@@ -22,7 +22,7 @@ Departure Station Usage Volume<br>
 
 
 Ridership by Month<br>
-![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Ridership_Small.jpg "Ridership by Month 2019") Station
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Ridership_Small.jpg "Ridership by Month 2019") 
 
 Stations by Volume<br>
-![Alt text](https://github.com/grybk1/CitiBikes/blob/master/StationVolume_small.jpg "Stations by Volume 2019") Station
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/StationVolume_small.jpg "Stations by Volume 2019") 
