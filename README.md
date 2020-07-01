@@ -22,7 +22,7 @@ Departure Station Usage Volume<br>
 
 
 Ridership by Month<br>
-![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Ridership_Capture.JPG"Ridership by Month 2019") 
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Ridership_Capture.JPG "Ridership by Month 2019") 
 
 Stations by Volume<br>
-![Alt text](https://github.com/grybk1/CitiBikes/blob/master/StationVolume.JPG"Stations by Volume 2019") 
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/StationVolume.JPG "Stations by Volume 2019") 
