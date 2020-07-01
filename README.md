@@ -13,7 +13,6 @@ vast majority of users of the service were subscription holders. This points to 
 instead of tourists are the primary users of the service. Aditionally Grove Station is the highest utilized of all 
 
 the locations. 
-
 https://public.tableau.com/profile/gilbert.rybak#!/vizhome/CitBikes/CITIBikeStory
 
 
