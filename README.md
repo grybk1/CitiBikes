@@ -17,3 +17,5 @@ the locations.
 
 
 https://public.tableau.com/profile/gilbert.rybak#!/vizhome/CitBikes/CITIBikeStory
+
+![Alt text](https://github.com/grybk1/CitiBikes/blob/master/Capture1_small.JPG "Usage Graph 2019")
